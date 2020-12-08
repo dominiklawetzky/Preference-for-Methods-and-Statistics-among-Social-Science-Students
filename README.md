@@ -13,4 +13,6 @@ In diesem Repository findet ihr alle Dateien, die zu dem Projekt gehören; zudem
 ## Ressources
 - Gemeinsames Google Docs: https://docs.google.com/document/d/1Zm8m3Sq_L-1R0oC_0fe0QXc1BGWDdbZAgXyt5oKWjaw/edit?usp=sharing
 - Formr (Umfragen): https://formr.org/
+- AsPredicted (Präregistrierung): https://aspredicted.org
 - Projekthinweise auf pandaR: https://pandar.netlify.app/post/gruppenprojekt/
+
