@@ -19,7 +19,7 @@ In diesem Repository findet ihr alle Dateien, die zu dem Projekt gehören; zudem
 ## Zeitplan
 
 | Datum / Frist | To-Do / Status | Anmerkungen |
-------------------------------------------------
+| ---------- | ----------------- | -----------
 | 11.12.2020 | Dokumentation abschließen, neue Version der Dokumentation an Frau Dr. Buchholz schicken | |
 | 14.12.2020 | Präregistrierung auf AsPredicted | |
 | 18.12.2020 | Erstellen des Fragebogens, Formulieren von Werbeschreiben, Suche nach Verteilern | |
