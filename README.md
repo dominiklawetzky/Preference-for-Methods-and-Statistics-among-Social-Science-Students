@@ -16,3 +16,19 @@ In diesem Repository findet ihr alle Dateien, die zu dem Projekt gehören; zudem
 - AsPredicted (Präregistrierung): https://aspredicted.org
 - Projekthinweise auf pandaR: https://pandar.netlify.app/post/gruppenprojekt/
 
+## Zeitplan
+
+| Datum / Frist | To-Do / Status | Anmerkungen |
+------------------------------------------------
+| 11.12.2020 | Dokumentation abschließen, neue Version der Dokumentation an Frau Dr. Buchholz schicken | |
+| 14.12.2020 | Präregistrierung auf AsPredicted | |
+| 18.12.2020 | Erstellen des Fragebogens, Formulieren von Werbeschreiben, Suche nach Verteilern | |
+| 20.12.2020 | Freischaltung des Fragebogens | |
+| 10.01.2021 | Schließung des Fragebogens, Datensatz herunterladen | |
+| 20.01.2021 | Erste Analyse des Datensatzes | |
+| 25.01.2021 | Finale Analyse des Datensatzes | |
+| 05.02.2021 | Fertigstellung des Auswertungsberichts | |
+
+
+
+
