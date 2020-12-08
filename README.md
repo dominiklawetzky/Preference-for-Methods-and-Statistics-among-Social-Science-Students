@@ -9,3 +9,8 @@ In diesem Repository findet ihr alle Dateien, die zu dem Projekt gehören; zudem
 - Änderungen sollten stets durch sinnvolle Kommentierung erklärt werden.
 - Probleme sollten im Bereich *Issues* vermerkt werden. Dort können sich Teammitglieder der Lösung des Problems annehmen.
 - Dateinamen sollten stets sinnvoll benannt werden (YYYY-MM-DD_Filename).
+
+## Ressources
+Gemeinsames Google Docs: https://docs.google.com/document/d/1Zm8m3Sq_L-1R0oC_0fe0QXc1BGWDdbZAgXyt5oKWjaw/edit?usp=sharing
+Formr (Umfragen): https://formr.org/
+Projekthinweise auf pandaR: https://pandar.netlify.app/post/gruppenprojekt/
