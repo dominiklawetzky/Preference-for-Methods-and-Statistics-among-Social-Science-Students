@@ -1,0 +1,71 @@
+\documentclass[doc]{apa7}
+\usepackage[utf8]{inputenc}
+\usepackage{times}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage[ngerman]{babel}
+\usepackage[nottoc]{tocbibind}
+\usepackage{hyperref}
+\usepackage{csquotes}
+\usepackage{tabularx}
+
+\usepackage[style=apa, backend=biber]{biblatex}
+\addbibresource{references.bib}
+
+\title{Statistik I: Praktikum}
+\shorttitle{Dokumentation: Statistik-Praktikum}
+\authorsnames[1, 2, 3, 4]{Antonina Cherniak, Dominik Lawetzky, Kiara Reibold, Alla Tyshchenko}
+\authorsaffiliations{s6479392@stud.uni-frankfurt.de, d.lawetzky@stud.uni-frankfurt.de, s0125296@stud.uni-frankfurt.de, s6581245@stud.uni-frankfurt.de}
+
+
+
+\begin{document}
+
+\maketitle
+
+\section{Vorüberlegungen}
+\noindent Ziel ist die Erhebung von Daten zur Überprüfung einer im Vorhinein aufgestellten Hypothese. Unsere Kleingruppe möchte in diesem Zusammenhang untersuchen, inwieweit
+\begin{itemize}
+    \item ein \textbf{Unterschied} zwischen dem Geschlecht und der Präferenz für Forschungsmethoden und Statistik besteht,
+    \item ein \textbf{Zusammenhang} zwischen der Persönlichkeitseigenschaft Gewissenhaftigkeit und der Präferenz für Forschungsmethoden und Statistik
+\end{itemize}
+besteht. Dafür soll eine Umfrage unter Studierenden des Faches Psychologie durchgeführt werden. In dieser Befragung werden das Geschlecht (nominalskaliert als männlich, weiblich, divers), das Alter als Kontrollvariable (verhältnisskaliert), die Präferenz für Forschungsmethoden und Statistik (dazu mehr bei Operationalisierung) sowie die Gewissenhaftigkeit als Persönlichkeitseigenschaft aus den \textit{Big Five} erfasst. \newline
+
+\noindent Neben der Gewissenhaftigkeit könnten hier zahlreiche andere Persönlichkeitseigenschaften untersucht werden. Ein hohes Maß an Gewissenhaftigkeit korreliert mit außerordentlichem Engagement bei der Erfüllung von Arbeitsaufträgen und einer insgesamt gut strukturierten Arbeitsweise \autocite{jackson_what_2010}. Forschungsmethoden und Statistik erfordern in vielen Fällen eben dieses strukturierte Vorgehen. Dementsprechend ist zu überprüfen, ob Studierende, die eine starke Ausprägung von Gewissenhaftigkeit aufweisen, im Bereich Forschungsmethoden und Statistik auf weniger Schwierigkeiten stoßen und mehr Freude daran finden.
+
+
+\section{Operationalisierung}
+\paragraph{Gewissenhaftigkeit} Die Gewissenhaftigkeit (engl. \textit{conscientiousness}) gehört zu den sogenannten \textit{Big Five}. Dementsprechend gibt es zahlreiche vorgefertigte und hinreichend evaluierte Tests für diese Persönlichkeitseigenschaft. Da die häufig verwendeten Tests NEO-PI-R und NEO-FFI unter Urheberrecht stehen, ist von deren Verwendung abzusehen. Stattdessen können Items aus dem \textit{International Personality Item Pool}\footnote{\url{https://ipip.ori.org}} verwendet werden; insbesondere bieten sich hier die Tests H178, Q17, H153 und X19 an.
+
+\paragraph{Präferenz für Forschungsmethoden und Statistik} Weit komplexer als die Operationalisierung der Persönlichkeitseigenschaft Gewissenhaftigkeit ist es, die Präferenz für den Bereich Forschungsmethoden und Statistik zu erfassen. Hierfür müssen eigens Items formuliert werden, die auf einer Ordinalskala die Präferenz für den Bereich Forschungsmethoden und Statistik erfassen. Abschließend wird das arithmetische Mittel der numerischen Relative zu den Itemantworten einer*eines Merkmalsträgers*in bestimmt, welches wiederum die Präferenz für Forschungsmethoden und Statistik angeben soll.\newline
+
+\noindent \textbf{Mögliche Fragestellungen könnten lauten:}
+
+\begin{table}[!htbp]
+  \centering
+    \begin{tabularx}{\textwidth}{Xl}
+    \toprule
+    Fragestellung & Bewertung im Bereich [1;5] \\
+    \midrule
+    Beim Lesen wissenschaftlicher Studien lege ich besonderen Wert darauf, die Methoden zu verstehen. & nein / eher nein / neutral / eher ja / ja \\
+    \hline
+    Wenn ich eine mathematische Formel nicht auf Anhieb verstehe, gebe ich schnell auf.  & ja / eher ja / neutral / eher nein / nein \\
+    \hline
+    Ich wende meine Kenntnisse aus der Statistik hin und wieder im Alltag an, um Probleme zu erklären oder Lösungen für Probleme zu finden. & nein / eher nein / neutral / eher ja / ja \\
+    \hline
+    Beim Verfassen von Hausarbeiten achte ich streng darauf, die Schreibkonventionen einzuhalten und methodisch sauber vorzugehen. & nein / eher nein / neutral / eher ja / ja \\
+    \hline
+    Ich spiele mit dem Gedanken, nach dem Studium eine wissenschaftliche Laufbahn zu beginnen. & nein / eher nein / neutral / eher ja / ja \\
+    \hline
+    Methoden halte ich für nicht so wichtig, da ich zum Abschluss meines Studiums vorrangig die Approbation als Physiotherapeut*in anstrebe.  & ja / eher ja / neutral / eher nein / nein \\
+    \bottomrule
+    \end{tabularx}%
+\end{table}%
+\noindent \textbf{Weitere Items werden aus dem Google Docs\footnote{\url{https://docs.google.com/document/d/1Zm8m3Sq_L-1R0oC_0fe0QXc1BGWDdbZAgXyt5oKWjaw/edit?usp=sharing}} ergänzt.}
+\noindent Zu beachten ist, dass die zweite und die letzte Fragestellung invers formuliert ist und das numerische Relativ somit ebenfalls invertiert werden muss, um das empirische Relativ zu repräsentieren.
+
+\printbibliography
+
+\end{document}
+
+
